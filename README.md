@@ -1,5 +1,7 @@
 # Auto Click by [CC]AfterMath
 An auto-clicker and macro recorder for Windows, specifically designed to **run in the background without interfering with your active mouse or keyboard usage**—allowing you to freely work, browse, or play other games while the auto-clicker runs independently in the target window.
+
+
 <img width="1920" height="1080" alt="promotion copy" src="https://github.com/user-attachments/assets/0b2207a1-bb6b-4bef-9833-f41d1dd2c6ee" />
 
 
