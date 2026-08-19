@@ -1,6 +1,7 @@
 # System overview
 
 ```AutoClick is a native Windows desktop app, not a browser extension or a scripting layer on top of another tool. It's written entirely in C# on .NET 8, using WPF for the UI and direct Win32 interop for everything that touches the operating system — mouse/keyboard simulation, low-level input hooks, and window management.```
+
 The app has two halves that share one execution engine: an Auto Clicker for structured, repeatable click sequences, and a Macro Recorder for capturing and replaying real input. Both are designed around one hard requirement — the ability to target a specific background window without moving the user's real cursor or stealing focus from whatever they're actively using.
 
 # Tech Stack 
