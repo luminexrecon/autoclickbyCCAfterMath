@@ -6,6 +6,8 @@ This app was created in response to the frustration we experienced as **Atlantic
 
 <img width="1057" height="741" alt="Screenshot 2026-08-19 152054" src="https://github.com/user-attachments/assets/e3a71338-7a7b-4fe5-8c8d-a24f60fd34a7" />
 
+## Complabilty 
+Only compatible with windows 10/11
 
 ## What we offer?
 - The app can run within the general interface or in a targeted window without interfering with other running apps even with stacks overlay of different window on the target.
