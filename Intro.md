@@ -4,7 +4,8 @@ An auto-clicker and macro recorder for Windows, specifically designed to **run i
 
 This app was created in response to the frustration we experienced as **Atlantica Online Eternal** players dealing with lag caused by other unlimited-speed autoclickers; while it was developed to address that specific issue, it is also functional for other applications.
 
-<img width="1920" height="1080" alt="promotion copy" src="https://github.com/user-attachments/assets/0b2207a1-bb6b-4bef-9833-f41d1dd2c6ee" />
+<img width="1057" height="741" alt="Screenshot 2026-08-19 152054" src="https://github.com/user-attachments/assets/e3a71338-7a7b-4fe5-8c8d-a24f60fd34a7" />
+
 
 ## What we offer?
 - The app can run within the general interface or in a targeted window without interfering with other running apps even with stacks overlay of different window on the target.
