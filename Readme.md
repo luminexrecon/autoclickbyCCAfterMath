@@ -24,7 +24,8 @@ Only compatible with windows 10/11
 - Can run in system tray.
 
 ## Drawbacks of this app (still figuring out)
-This app can run without stealing the cursor focus even while the user performs other actions in the target window; however, when the user interacts with that target window, there will be a brief pause until the app detects that no other activity is taking place in the window being worked on.
+- This app can run without stealing the cursor focus even while the user performs other actions in the target window; however, when the user interacts with that target window, there will be a brief pause until the app detects that no other activity is taking place in the window being worked on.
+- During testing of in-game items that involve a delay before a pop-up appears (specifically, opening the Atlantica item selection box), we found that the action could not be fully executed via `PostMessage` (running in the background); direct cursor interaction was required. We did not pursue this further because the only current solution involves a hooking method that could cause the application to be detected as a cheat due to memory injection.
 
 ## Security & Licensing
 - **Lifetime** license (one-time activation, valid indefinitely on that device) — no subscription fees.
