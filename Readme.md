@@ -7,7 +7,9 @@ This app was created in response to the frustration we experienced as **Atlantic
 <img width="1057" height="741" alt="Screenshot 2026-08-19 152054" src="https://github.com/user-attachments/assets/e3a71338-7a7b-4fe5-8c8d-a24f60fd34a7" />
 
 # ShowCase
-Uploading screen-recording-2026-08-25-130154_ud0StNRK.mp4…
+https://github.com/user-attachments/assets/9d1f27d9-9ba4-4004-b56a-a869be3a7431
+
+
 
 ## Complabilty 
 Only compatible with windows 10/11
