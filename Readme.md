@@ -6,6 +6,9 @@ This app was created in response to the frustration we experienced as **Atlantic
 
 <img width="1057" height="741" alt="Screenshot 2026-08-19 152054" src="https://github.com/user-attachments/assets/e3a71338-7a7b-4fe5-8c8d-a24f60fd34a7" />
 
+# ShowCase
+Uploading screen-recording-2026-08-25-130154_ud0StNRK.mp4…
+
 ## Complabilty 
 Only compatible with windows 10/11
 
@@ -22,6 +25,10 @@ Only compatible with windows 10/11
 - Import & Export (Only for/from this app).
 - A minimum limit of 600ms is enforced to prevent excessive usage that could lead to the app being detected.
 - Can run in system tray.
+
+
+
+
 
 ## Drawbacks of this app (still figuring out)
 - This app can run without stealing the cursor focus even while the user performs other actions in the target window; however, when the user interacts with that target window, there will be a brief pause until the app detects that no other activity is taking place in the window being worked on.
