@@ -32,6 +32,8 @@ Only compatible with windows 10/11
 
 ## Update's
 - window-based capture point, if the window are moved the click will still on the area thats you want to click (25/08/2026)
+https://github.com/user-attachments/assets/c30c5431-9f95-481c-92d2-0db47889e8cb
+
 
 
 
