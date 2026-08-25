@@ -50,6 +50,11 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 - Runs automatically as Administrator to ensure inputs are properly received by the target application.
 
 
+## Interested to buy? 
+- World-wide price : 15$ lifetime
+- Indonesian : 100k IDR
+- If you play atlantica online eternal you can pay me with payme with gold or item woth of 10t
+
 Contact via :
 [Whatsapp](https://wa.me/628215994016)
 [Discord](https://discord.com/users/915059991864561714)
