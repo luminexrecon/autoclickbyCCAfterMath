@@ -30,6 +30,8 @@ Only compatible with windows 10/11
 - A minimum limit of 600ms is enforced to prevent excessive usage that could lead to the app being detected.
 - Can run in system tray.
 
+## Update's
+- window-based capture point, if the window are moved the click will still on the area thats you want to click (25/08/2026)
 
 
 
