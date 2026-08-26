@@ -1,5 +1,5 @@
 # Auto Click by [CC]AfterMath
-An auto-clicker and macro recorder for Windows, specifically designed to **run in the background without interfering with your active mouse or keyboard usage**—allowing you to freely work, browse, or play other games while the auto-clicker runs independently in the target window.
+Modern and simple auto click for windows, specifically designed to **run in the background without interfering with your active mouse or keyboard usage**—allowing you to freely work, browse, or play other games while the auto-clicker runs independently in the target window.
 
 
 This app was created in response to the frustration we experienced as **Atlantica Online Eternal** players dealing with lag caused by other unlimited-speed autoclickers; while it was developed to address that specific issue, it is also functional for other applications.
