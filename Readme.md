@@ -55,8 +55,6 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 - Indonesian : 100k IDR
 - If you play atlantica online eternal you can pay me with payme with gold or item woth of 10t
 
-<iframe frameborder="0" src="https://itch.io/embed/4953877" width="552" height="167"><a href="https://luminexrecon.itch.io/autoclickccaftermath">Auto Click by [CC]AfterMath by luminexrecon</a></iframe>
-
 Contact via :
 [Whatsapp](https://wa.me/628215994016)
 [Discord](https://discord.com/users/915059991864561714)
