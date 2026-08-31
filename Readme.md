@@ -50,6 +50,9 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 - Runs automatically as Administrator to ensure inputs are properly received by the target application.
 
 
+## Wanna try? 
+Download the trial version [itch.io](https://luminexrecon.itch.io/autoclickccaftermath)
+
 ## Interested to buy? 
 - World-wide price : 15$ lifetime
 - Indonesian : 100k IDR
