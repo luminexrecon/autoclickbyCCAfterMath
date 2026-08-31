@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 
 
 ## Wanna try? 
-[![Download Trial Version on itch.iol](https://img.shields.io/badge/Itch.io-red?style=for-the-badge)]([https://url-tujuan.com](https://luminexrecon.itch.io/autoclickccaftermath))
+[![Download Trial Version on itch.iol](https://img.shields.io/badge/Download_trial_on_Itch.io-red?style=for-the-badge)]([https://url-tujuan.com](https://luminexrecon.itch.io/autoclickccaftermath))
 
 ## Interested to buy? 
 - World-wide price : 15$ lifetime
