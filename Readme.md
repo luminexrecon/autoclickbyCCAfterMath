@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 
 
 ## Wanna try? 
-Download Trial Version on [Itch.io](https://luminexrecon.itch.io/autoclickccaftermath)
+Download Trial Version on [GDRIVE]([https://luminexrecon.itch.io/autoclickccaftermath](https://drive.google.com/drive/folders/18v1mlPvlnU7Pr-lOskn1oZe0r3P93YMu?usp=sharing))
 
 ## Interested to buy? 
 - World-wide price : 15$ lifetime
