@@ -51,7 +51,7 @@ https://github.com/user-attachments/assets/6b4ed059-6105-4e0c-81ea-30541c61ad55
 
 
 ## Wanna try? 
-Download Trial Version on https://filedon.co/view/MhYiY5benR
+[Download Trial Version](https://pixeldrain.com/u/yDtZShFr)
 
 ## Interested to buy? 
 - World-wide price : 15$ lifetime
